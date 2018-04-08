@@ -1,9 +1,0 @@
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\bin\Debug\LSB-DoanNgocVuong.exe.config
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\bin\Debug\LSB-DoanNgocVuong.exe
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\bin\Debug\LSB-DoanNgocVuong.pdb
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\obj\Debug\LSB_DoanNgocVuong.Form1.resources
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\obj\Debug\LSB_DoanNgocVuong.Properties.Resources.resources
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\obj\Debug\N14DCAT006-TRANGIABAONGOC.csproj.GenerateResource.cache
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\obj\Debug\N14DCAT006-TRANGIABAONGOC.csproj.CoreCompileInputs.cache
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\obj\Debug\LSB-DoanNgocVuong.exe
-D:\downloads\LSB-DoanNgocVuong - Copy\LSB-DoanNgocVuong\obj\Debug\LSB-DoanNgocVuong.pdb
